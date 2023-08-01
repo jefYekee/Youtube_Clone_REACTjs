@@ -12,7 +12,9 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://www.canva.com/design/DAFqR2io2XU/dGEpomCoOtr2shT1PDpYBw/edit?utm_content=DAFqR2io2XU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton';
+export const logo = () => (
+  <img src="./logo.png" alt=''/>
+);
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
