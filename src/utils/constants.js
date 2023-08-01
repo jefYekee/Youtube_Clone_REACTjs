@@ -12,11 +12,11 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://www.canva.com/design/DAFqR2io2XU/dGEpomCoOtr2shT1PDpYBw/edit?utm_content=DAFqR2io2XU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Vigilant Living', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -34,9 +34,9 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
+export const demoThumbnailUrl = 'https://yt3.googleusercontent.com/9wJaIxNEK9gjNr2X1Nf1Rl-WqPJCF3UMTjdrU0bve_j4H-fJXhKiNnLrTobMwNMurLedbhr6aw=s176-c-k-c0x00ffffff-no-rj';
+export const demoChannelUrl = 'https://www.youtube.com/channel/UCwY7xweSPSDUl-e5_AhjLFQ';
 export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
+export const demoChannelTitle = 'Vigilant Living ';
 export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
